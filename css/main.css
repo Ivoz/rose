@@ -42,6 +42,9 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-family: 'Carme', 'Droid Sans', Verdana, sans-serif;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -121,6 +124,9 @@ body {
 .cover .btn-lg {
   padding: 10px 20px;
   font-weight: bold;
+}
+.cover-heading, .masthead-brand {
+  font-family: 'Hammersmith One', 'Droid Sans', Verdana, sans-serif;
 }
 
 
